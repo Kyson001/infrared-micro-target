@@ -1,0 +1,11 @@
+{
+  "images": 1024,
+  "targets": 648,
+  "backgrounds": 510,
+  "old_images": 427,
+  "old_pixel_mismatches": [],
+  "exact_original_overlaps": [],
+  "duplicate_groups": [],
+  "annotation": "8-connected components of official binary masks, tight zero-based half-open boxes; no component filtering",
+  "caveat": "Exact decoded grayscale pixel overlap check only; cannot exclude same-sequence or transformed duplicates"
+}

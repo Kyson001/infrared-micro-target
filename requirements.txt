@@ -1,0 +1,9 @@
+# Install PyTorch separately for your CUDA/CPU platform (see README).
+torch==2.5.1
+torchvision==0.20.1
+ultralytics==8.4.51
+numpy==2.4.4
+opencv-python==4.13.0.92
+Pillow==12.2.0
+matplotlib==3.10.9
+PyYAML==6.0.3

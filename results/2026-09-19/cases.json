@@ -1,0 +1,72 @@
+[
+  {
+    "index": 1,
+    "title": "tiny missed",
+    "id": "Misc_1",
+    "gt_index": 0,
+    "file": "cases/01_Misc_1.png"
+  },
+  {
+    "index": 2,
+    "title": "low contrast missed",
+    "id": "Misc_35",
+    "gt_index": 0,
+    "file": "cases/02_Misc_35.png"
+  },
+  {
+    "index": 3,
+    "title": "clutter missed",
+    "id": "Misc_114",
+    "gt_index": 0,
+    "file": "cases/03_Misc_114.png"
+  },
+  {
+    "index": 4,
+    "title": "localization",
+    "id": "Misc_121",
+    "gt_index": 5,
+    "file": "cases/04_Misc_121.png"
+  },
+  {
+    "index": 5,
+    "title": "threshold miss",
+    "id": "Misc_111",
+    "gt_index": 0,
+    "file": "cases/05_Misc_111.png"
+  },
+  {
+    "index": 6,
+    "title": "detected reference",
+    "id": "S20210527_S6_7",
+    "gt_index": 0,
+    "file": "cases/06_S20210527_S6_7.png"
+  },
+  {
+    "index": 7,
+    "title": "background false alarms",
+    "id": "iraytek-135",
+    "gt_index": null,
+    "file": "cases/07_iraytek-135.png"
+  },
+  {
+    "index": 8,
+    "title": "background false alarms",
+    "id": "other-10",
+    "gt_index": null,
+    "file": "cases/08_other-10.png"
+  },
+  {
+    "index": 9,
+    "title": "background false alarms",
+    "id": "iraytek-10",
+    "gt_index": null,
+    "file": "cases/09_iraytek-10.png"
+  },
+  {
+    "index": 10,
+    "title": "background false alarms",
+    "id": "iraytek-131",
+    "gt_index": null,
+    "file": "cases/10_iraytek-131.png"
+  }
+]

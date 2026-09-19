@@ -1,0 +1,16 @@
+{
+  "UVA_cos": {
+    "metrics/precision(B)": 0.9366731861860329,
+    "metrics/recall(B)": 0.7344834423953995,
+    "metrics/mAP50(B)": 0.8544461862918283,
+    "metrics/mAP50-95(B)": 0.6871522285769903,
+    "fitness": 0.6871522285769903
+  },
+  "UVA_linear": {
+    "metrics/precision(B)": 0.9440939805428494,
+    "metrics/recall(B)": 0.7333508676151183,
+    "metrics/mAP50(B)": 0.8537748848789036,
+    "metrics/mAP50-95(B)": 0.6870999018517223,
+    "fitness": 0.6870999018517223
+  }
+}

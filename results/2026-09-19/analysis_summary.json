@@ -1,0 +1,214 @@
+{
+  "cuts": {
+    "scr": [
+      7.442949009797558,
+      12.195247256730461
+    ],
+    "local_bg_std": [
+      3.5619590773463377,
+      6.537289686195411
+    ],
+    "local_bg_gradient": [
+      10.742172642937268,
+      19.2179209999469
+    ]
+  },
+  "reasons": {
+    "UVA_cos": {
+      "confidence_below_0.25": 6,
+      "detected": 2,
+      "localization_iou_0.1_to_0.5": 109,
+      "no_nearby_box": 531
+    },
+    "UVA_linear": {
+      "confidence_below_0.25": 1,
+      "detected": 3,
+      "localization_iou_0.1_to_0.5": 108,
+      "no_nearby_box": 536
+    }
+  },
+  "strata": [
+    {
+      "model": "UVA_cos",
+      "group": "bbox_area<=16",
+      "targets": 184,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_cos",
+      "group": "bbox_area17-64",
+      "targets": 341,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_cos",
+      "group": "bbox_area65-256",
+      "targets": 108,
+      "detected": 2,
+      "recall": 0.018518518518518517
+    },
+    {
+      "model": "UVA_cos",
+      "group": "bbox_area>256",
+      "targets": 15,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_cos",
+      "group": "scr_low",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_cos",
+      "group": "scr_mid",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_cos",
+      "group": "scr_high",
+      "targets": 216,
+      "detected": 2,
+      "recall": 0.009259259259259259
+    },
+    {
+      "model": "UVA_cos",
+      "group": "local_bg_std_low",
+      "targets": 216,
+      "detected": 2,
+      "recall": 0.009259259259259259
+    },
+    {
+      "model": "UVA_cos",
+      "group": "local_bg_std_mid",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_cos",
+      "group": "local_bg_std_high",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_cos",
+      "group": "local_bg_gradient_low",
+      "targets": 216,
+      "detected": 2,
+      "recall": 0.009259259259259259
+    },
+    {
+      "model": "UVA_cos",
+      "group": "local_bg_gradient_mid",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_cos",
+      "group": "local_bg_gradient_high",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_linear",
+      "group": "bbox_area<=16",
+      "targets": 184,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_linear",
+      "group": "bbox_area17-64",
+      "targets": 341,
+      "detected": 1,
+      "recall": 0.002932551319648094
+    },
+    {
+      "model": "UVA_linear",
+      "group": "bbox_area65-256",
+      "targets": 108,
+      "detected": 2,
+      "recall": 0.018518518518518517
+    },
+    {
+      "model": "UVA_linear",
+      "group": "bbox_area>256",
+      "targets": 15,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_linear",
+      "group": "scr_low",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_linear",
+      "group": "scr_mid",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_linear",
+      "group": "scr_high",
+      "targets": 216,
+      "detected": 3,
+      "recall": 0.013888888888888888
+    },
+    {
+      "model": "UVA_linear",
+      "group": "local_bg_std_low",
+      "targets": 216,
+      "detected": 3,
+      "recall": 0.013888888888888888
+    },
+    {
+      "model": "UVA_linear",
+      "group": "local_bg_std_mid",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_linear",
+      "group": "local_bg_std_high",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_linear",
+      "group": "local_bg_gradient_low",
+      "targets": 216,
+      "detected": 3,
+      "recall": 0.013888888888888888
+    },
+    {
+      "model": "UVA_linear",
+      "group": "local_bg_gradient_mid",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    },
+    {
+      "model": "UVA_linear",
+      "group": "local_bg_gradient_high",
+      "targets": 216,
+      "detected": 0,
+      "recall": 0.0
+    }
+  ]
+}

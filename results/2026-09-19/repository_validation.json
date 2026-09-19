@@ -1,0 +1,9 @@
+{
+  "dataset_files_hashed": 4125,
+  "public_images": 1024,
+  "public_masks": 1024,
+  "public_metrics_identical_to_original_run": true,
+  "model_sha256_verified": true,
+  "relative_report_links_verified": true,
+  "scripts_parse_successfully": true
+}

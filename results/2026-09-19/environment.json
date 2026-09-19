@@ -1,0 +1,23 @@
+{
+  "python": "3.12.13 | packaged by Anaconda, Inc. | (main, Mar 19 2026, 20:16:45) [MSC v.1942 64 bit (AMD64)]",
+  "torch": "2.5.1+cu121",
+  "ultralytics": "8.4.51",
+  "cuda": true,
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "imgsz": 1024,
+  "batch": 8,
+  "rect": false,
+  "conf_floor": 0.001,
+  "match_iou": 0.5,
+  "main_conf": 0.25,
+  "weights": {
+    "UVA_cos": {
+      "path": "models/UVA/best.pt",
+      "sha256": "c1ffd82bc8f86455f680904fad42356f51114874684428047c313dede2dbb794"
+    },
+    "UVA_linear": {
+      "path": "models/UVA_no_cosine/best.pt",
+      "sha256": "c3f5e28316e13bdf9dc4bc8df14cfe61462b3a2675658d0bd6484ffdc8ecfcf1"
+    }
+  }
+}

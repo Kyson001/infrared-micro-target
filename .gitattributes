@@ -1,0 +1,14 @@
+*.pt binary
+*.png binary
+*.jpg binary
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.yaml text eol=lf
+*.txt text eol=lf
+# Keep upstream dataset bytes unchanged so published SHA256 works on all platforms.
+datasets/** -text -whitespace
+datasets/file_checksums.json text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
