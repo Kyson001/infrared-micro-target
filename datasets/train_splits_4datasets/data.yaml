@@ -1,0 +1,7 @@
+path: C:/Users/Kyson/Desktop/分割检测/yolo_dataset/all4_segment
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: target

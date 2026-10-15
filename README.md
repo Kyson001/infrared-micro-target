@@ -3,13 +3,36 @@
 
 本仓库保存两份 YOLO26N best 模型、调用与评估代码、2026-09-19 实际使用的公开红外数据，以及完整预测、指标、漏检/虚警案例和中文报告。
 
+**2026-10-15 更新：新增四数据集合并训练的分割模型 `all4_seg_4datasets`，并用它检测自建数据集 `infarad micro-target`。**
+实测结果为 0 召回（跨域失败），原因排查与改进方向见
+[自建集检测报告](results/2026-10-15_selfbuilt_eval/检测报告.md)、
+[模型说明](models/all4_seg_4datasets/README.md) 与
+[训练数据说明](datasets/README.md#四数据集合并训练集all42026-10-13)。
+
 ## 查看结果
 
 - [完整评测报告与案例](results/2026-09-19/评测报告.md)
 - [指标 CSV](results/2026-09-19/metrics.csv)
 - [两模型案例总览](results/2026-09-19/case_contact_sheet.jpg)
+- [四数据集模型：自建集检测报告（2026-10-15）](results/2026-10-15_selfbuilt_eval/检测报告.md)
+- [四数据集模型：训练与分数据集指标（2026-10-15）](results/2026-10-15_all4_training/)
 - [数据来源与实例定义](datasets/README.md)
 - [模型说明](models/README.md)
+
+## 四数据集模型（all4_seg_4datasets）
+
+YOLO26n-seg、单类，合并 NUAA-SIRST + NUDT-SIRST + IRSTD-1K + MDFA 共 9,918 张训练图，100 轮（2026-10-13 完成）。
+合并测试集：Box mAP50 **0.742**、Mask mAP50 **0.619**；逐数据集：
+
+| 数据集 | NUDT-SIRST | IRSTD-1K | NUAA-SIRST | MDFA |
+| --- | ---: | ---: | ---: | ---: |
+| Box mAP50 | 0.896 | 0.746 | 0.569 | 0.208 |
+| Mask mAP50 | 0.668 | 0.568 | 0.678 | 0.241 |
+
+用该权重检测自建数据集 `infarad micro-target`（490×600、弥散低对比 UVA 目标）时，
+conf≥0.25、IoU≥0.5 下 **TP = 0、AP50 = 0**；降到 conf=0.01、换分辨率、做对比度增强均无改善，
+而同一批图用自建数据训练的模型可 20/20 检出。结论：**公开 IRSTD 域与自建 UVA 域存在系统性分布差异，
+公开数据不能替代自建数据训练**，详见检测报告。
 
 同一流程固定 `conf≥0.25`、`IoU≥0.5`，P 指检测精确率：
 

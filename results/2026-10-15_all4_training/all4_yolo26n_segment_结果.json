@@ -1,0 +1,26 @@
+{
+  "数据集": [
+    "NUAA-SIRST",
+    "NUDT-SIRST",
+    "IRSTD-1K",
+    "MDFA"
+  ],
+  "任务": "segment",
+  "权重来源": "C:\\Users\\Kyson\\Desktop\\yolo26\\yolo26n-seg.pt",
+  "epochs": 100,
+  "batch": 8,
+  "imgsz": 1024,
+  "seed": 42,
+  "patience": 30,
+  "实际训练轮数": 100,
+  "box_mAP50": 0.7419157055948457,
+  "box_mAP50_95": 0.3711968596049428,
+  "mask_mAP50": 0.6187989927042932,
+  "mask_mAP50_95": 0.25148629203409134,
+  "训练目录": "C:\\Users\\Kyson\\Desktop\\掩膜\\all4_yolo26n_segment",
+  "完成时间": "2026-10-13 15:51:23",
+  "导出模型": [
+    "C:\\Users\\Kyson\\Desktop\\掩膜\\all4_yolo26n_segment_best.pt",
+    "C:\\Users\\Kyson\\Desktop\\掩膜\\all4_yolo26n_segment_last.pt"
+  ]
+}
