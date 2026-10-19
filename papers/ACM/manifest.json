@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "generated_at": "2026-10-19T13:42:49.755Z",
+  "request": {
+    "topic": "",
+    "title": "ACM_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection",
+    "dois": [],
+    "pdf_url": "https://openaccess.thecvf.com/content/WACV2021/papers/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.pdf",
+    "si_requested": true,
+    "language_override": "",
+    "route_override": "",
+    "source_url": "",
+    "api_fallback_web": null,
+    "api_fallback_web_for": [],
+    "no_api_fallback_web_for": []
+  },
+  "summary": {
+    "total": 1,
+    "downloaded": 1,
+    "seconds": 1.9
+  },
+  "results": [
+    {
+      "title": "ACM_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection",
+      "status": "open_access_downloaded",
+      "provider": "direct_url",
+      "accessMode": "open_access",
+      "ok": true,
+      "file": "PDFs/ACM_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection.pdf",
+      "bytes": 1635190,
+      "sha256": "6fecc6b7141745c84f2b0b153ade79aa12bc901cc378d27ab90c94ffa93c267c",
+      "contentType": "application/pdf",
+      "format": "pdf",
+      "source": "https://openaccess.thecvf.com/content/WACV2021/papers/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.pdf",
+      "si_requested": true,
+      "si": {
+        "status": "downloaded",
+        "file": "supplementary/PDFs/ACM_Supplementary_Material.pdf",
+        "landing_pages_checked": [
+          "https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html"
+        ]
+      },
+      "pages": 10
+    }
+  ]
+}

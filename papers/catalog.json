@@ -1,0 +1,34 @@
+{
+  "download_date": "2026-10-19",
+  "supporting_information_requested": true,
+  "files": [
+    {
+      "file": "ACM/PDFs/ACM_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection.pdf",
+      "pages": 10,
+      "bytes": 1635190,
+      "sha256": "6fecc6b7141745c84f2b0b153ade79aa12bc901cc378d27ab90c94ffa93c267c",
+      "source": "https://openaccess.thecvf.com/content/WACV2021/papers/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.pdf"
+    },
+    {
+      "file": "DNANet/PDFs/DNANet_Dense_Nested_Attention_Network_for_Infrared_Small_Target_Detection.pdf",
+      "pages": 15,
+      "bytes": 13800126,
+      "sha256": "54feff93025ba39add39b07fd03dc55e749f855fd41199cb406dfd5248e465e6",
+      "source": "https://arxiv.org/pdf/2106.00487v3"
+    },
+    {
+      "file": "ISNet/PDFs/ISNet_Shape_Matters_for_Infrared_Small_Target_Detection.pdf",
+      "pages": 10,
+      "bytes": 1686567,
+      "sha256": "f2c7d085e5898e7ec3ba7338ad9c986fd8f750a9b55e29b4f317571eb37ff17b",
+      "source": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf"
+    },
+    {
+      "file": "ACM/supplementary/PDFs/ACM_Supplementary_Material.pdf",
+      "pages": 3,
+      "bytes": 888577,
+      "sha256": "6053d569a89f6fe3cdbe252aa15dbcacfa35b291480b1c7dc32bf508684feb3c",
+      "source": "https://openaccess.thecvf.com/content/WACV2021/supplemental/Dai_Asymmetric_Contextual_Modulation_WACV_2021_supplemental.pdf"
+    }
+  ]
+}

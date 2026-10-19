@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "generated_at": "2026-10-19T13:43:36.332Z",
+  "request": {
+    "topic": "",
+    "title": "ACM_Supplementary_Material",
+    "dois": [],
+    "pdf_url": "https://openaccess.thecvf.com/content/WACV2021/supplemental/Dai_Asymmetric_Contextual_Modulation_WACV_2021_supplemental.pdf",
+    "si_requested": true,
+    "language_override": "",
+    "route_override": "",
+    "source_url": "",
+    "api_fallback_web": null,
+    "api_fallback_web_for": [],
+    "no_api_fallback_web_for": []
+  },
+  "summary": {
+    "total": 1,
+    "downloaded": 1,
+    "seconds": 1.6
+  },
+  "results": [
+    {
+      "title": "ACM_Supplementary_Material",
+      "status": "open_access_downloaded",
+      "provider": "direct_url",
+      "accessMode": "open_access",
+      "ok": true,
+      "file": "PDFs/ACM_Supplementary_Material.pdf",
+      "bytes": 888577,
+      "sha256": "6053d569a89f6fe3cdbe252aa15dbcacfa35b291480b1c7dc32bf508684feb3c",
+      "contentType": "application/pdf",
+      "format": "pdf",
+      "source": "https://openaccess.thecvf.com/content/WACV2021/supplemental/Dai_Asymmetric_Contextual_Modulation_WACV_2021_supplemental.pdf",
+      "si_requested": true,
+      "si": {
+        "status": "not_applicable",
+        "reason": "This file is the supplementary material itself."
+      },
+      "pages": 3
+    }
+  ]
+}

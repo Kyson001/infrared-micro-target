@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "generated_at": "2026-10-19T13:43:15.317Z",
+  "request": {
+    "topic": "",
+    "title": "ISNet_Shape_Matters_for_Infrared_Small_Target_Detection",
+    "dois": [],
+    "pdf_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf",
+    "si_requested": true,
+    "language_override": "",
+    "route_override": "",
+    "source_url": "",
+    "api_fallback_web": null,
+    "api_fallback_web_for": [],
+    "no_api_fallback_web_for": []
+  },
+  "summary": {
+    "total": 1,
+    "downloaded": 1,
+    "seconds": 2.8
+  },
+  "results": [
+    {
+      "title": "ISNet_Shape_Matters_for_Infrared_Small_Target_Detection",
+      "status": "open_access_downloaded",
+      "provider": "direct_url",
+      "accessMode": "open_access",
+      "ok": true,
+      "file": "PDFs/ISNet_Shape_Matters_for_Infrared_Small_Target_Detection.pdf",
+      "bytes": 1686567,
+      "sha256": "f2c7d085e5898e7ec3ba7338ad9c986fd8f750a9b55e29b4f317571eb37ff17b",
+      "contentType": "application/pdf",
+      "format": "pdf",
+      "source": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf",
+      "si_requested": true,
+      "si": {
+        "status": "not_found",
+        "reason": "No separate supporting-information link found on the checked official pages; this does not establish that none exists.",
+        "landing_pages_checked": [
+          "https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.html"
+        ]
+      },
+      "pages": 10
+    }
+  ]
+}

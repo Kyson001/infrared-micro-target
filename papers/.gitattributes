@@ -1,0 +1,2 @@
+# Preserve downloaded PDFs byte-for-byte; never apply text line-ending conversion.
+*.pdf binary
