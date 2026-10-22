@@ -1,0 +1,3425 @@
+{
+  "summary": {
+    "local_images": 427,
+    "scanned": {
+      "train": 7650,
+      "val": 1350
+    },
+    "matches_training": 346,
+    "matches_validation": 71,
+    "matches_either": 417,
+    "unmatched": [
+      "Misc_138.png",
+      "Misc_139.png",
+      "Misc_140.png",
+      "Misc_17.png",
+      "Misc_19.png",
+      "Misc_23.png",
+      "Misc_27.png",
+      "Misc_31.png",
+      "Misc_34.png",
+      "Misc_73.png"
+    ],
+    "method": "Exact decoded grayscale pixel equality at identical dimensions, no resize or approximate matching",
+    "source": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images",
+    "model_dataset": "C:\\Users\\Kyson\\Desktop\\IRSTD\\_yolo_dataset\\images"
+  },
+  "matches": {
+    "Misc_1.png": {
+      "train": [
+        "train_02329.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_10.png": {
+      "train": [
+        "train_02338.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_100.png": {
+      "train": [
+        "train_02428.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_101.png": {
+      "train": [],
+      "val": [
+        "train_02429.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_102.png": {
+      "train": [],
+      "val": [
+        "train_02430.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_103.png": {
+      "train": [
+        "train_02431.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_104.png": {
+      "train": [
+        "train_02432.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_105.png": {
+      "train": [],
+      "val": [
+        "train_02433.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_106.png": {
+      "train": [],
+      "val": [
+        "train_02434.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_107.png": {
+      "train": [
+        "train_02435.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_108.png": {
+      "train": [
+        "train_02436.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_109.png": {
+      "train": [
+        "train_02437.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_11.png": {
+      "train": [
+        "train_02339.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_110.png": {
+      "train": [
+        "train_02438.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_111.png": {
+      "train": [
+        "train_02439.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_112.png": {
+      "train": [],
+      "val": [
+        "train_02440.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_113.png": {
+      "train": [
+        "train_02441.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_114.png": {
+      "train": [
+        "train_02442.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_115.png": {
+      "train": [
+        "train_02443.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_116.png": {
+      "train": [
+        "train_02444.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_117.png": {
+      "train": [
+        "train_02445.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_118.png": {
+      "train": [
+        "train_02446.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_119.png": {
+      "train": [
+        "train_02447.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_12.png": {
+      "train": [
+        "train_02340.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_120.png": {
+      "train": [
+        "train_02448.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_121.png": {
+      "train": [
+        "train_02449.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_122.png": {
+      "train": [],
+      "val": [
+        "train_02450.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_123.png": {
+      "train": [
+        "train_02451.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_124.png": {
+      "train": [
+        "train_02452.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_125.png": {
+      "train": [
+        "train_02453.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_126.png": {
+      "train": [
+        "train_02454.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_127.png": {
+      "train": [
+        "train_02455.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_128.png": {
+      "train": [
+        "train_02456.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_129.png": {
+      "train": [
+        "train_02457.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_13.png": {
+      "train": [
+        "train_02341.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_130.png": {
+      "train": [
+        "train_02458.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_131.png": {
+      "train": [
+        "train_02459.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_132.png": {
+      "train": [
+        "train_02460.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_133.png": {
+      "train": [],
+      "val": [
+        "train_02461.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_134.png": {
+      "train": [
+        "train_02462.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_135.png": {
+      "train": [
+        "train_02463.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_136.png": {
+      "train": [
+        "train_02464.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_137.png": {
+      "train": [],
+      "val": [
+        "train_02465.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_138.png": {
+      "train": [],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_139.png": {
+      "train": [],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_14.png": {
+      "train": [
+        "train_02342.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_140.png": {
+      "train": [],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_141.png": {
+      "train": [
+        "train_02469.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_142.png": {
+      "train": [
+        "train_02470.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_143.png": {
+      "train": [
+        "train_02471.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_144.png": {
+      "train": [
+        "train_02472.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_145.png": {
+      "train": [
+        "train_02473.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_146.png": {
+      "train": [
+        "train_02474.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_147.png": {
+      "train": [
+        "train_02475.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_148.png": {
+      "train": [
+        "train_02476.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_149.png": {
+      "train": [
+        "train_02477.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_15.png": {
+      "train": [
+        "train_02343.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_150.png": {
+      "train": [
+        "train_02478.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_151.png": {
+      "train": [],
+      "val": [
+        "train_02479.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_152.png": {
+      "train": [
+        "train_02480.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_153.png": {
+      "train": [
+        "train_02481.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_154.png": {
+      "train": [
+        "train_02482.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_155.png": {
+      "train": [
+        "train_02483.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_156.png": {
+      "train": [
+        "train_02484.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_157.png": {
+      "train": [
+        "train_02485.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_158.png": {
+      "train": [
+        "train_02486.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_159.png": {
+      "train": [],
+      "val": [
+        "train_02487.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_16.png": {
+      "train": [
+        "train_02344.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_160.png": {
+      "train": [
+        "train_02488.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_161.png": {
+      "train": [
+        "train_02489.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_162.png": {
+      "train": [
+        "train_02490.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_163.png": {
+      "train": [],
+      "val": [
+        "train_02491.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_164.png": {
+      "train": [
+        "train_02492.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_165.png": {
+      "train": [
+        "train_02493.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_166.png": {
+      "train": [
+        "train_02494.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_167.png": {
+      "train": [
+        "train_02495.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_168.png": {
+      "train": [
+        "train_02496.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_169.png": {
+      "train": [
+        "train_02497.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_17.png": {
+      "train": [],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_170.png": {
+      "train": [],
+      "val": [
+        "train_02498.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_171.png": {
+      "train": [],
+      "val": [
+        "train_02499.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_172.png": {
+      "train": [],
+      "val": [
+        "train_02500.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_173.png": {
+      "train": [],
+      "val": [
+        "train_02501.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_174.png": {
+      "train": [
+        "train_02502.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_175.png": {
+      "train": [
+        "train_02503.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_176.png": {
+      "train": [
+        "train_02504.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_177.png": {
+      "train": [
+        "train_02505.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_178.png": {
+      "train": [
+        "train_02506.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_179.png": {
+      "train": [
+        "train_02507.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_18.png": {
+      "train": [
+        "train_02346.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_180.png": {
+      "train": [
+        "train_02508.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_181.png": {
+      "train": [
+        "train_02509.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_182.png": {
+      "train": [
+        "train_02510.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_183.png": {
+      "train": [
+        "train_02511.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_184.png": {
+      "train": [
+        "train_02512.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_185.png": {
+      "train": [
+        "train_02513.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_186.png": {
+      "train": [
+        "train_02514.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_187.png": {
+      "train": [
+        "train_02515.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_188.png": {
+      "train": [
+        "train_02516.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_189.png": {
+      "train": [],
+      "val": [
+        "train_02517.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_19.png": {
+      "train": [],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_190.png": {
+      "train": [],
+      "val": [
+        "train_02518.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_191.png": {
+      "train": [
+        "train_02519.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_192.png": {
+      "train": [
+        "train_02520.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_193.png": {
+      "train": [
+        "train_02521.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_194.png": {
+      "train": [
+        "train_02522.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_195.png": {
+      "train": [
+        "train_02523.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_196.png": {
+      "train": [
+        "train_02524.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_197.png": {
+      "train": [
+        "train_02525.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_198.png": {
+      "train": [
+        "train_02526.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_199.png": {
+      "train": [
+        "train_02527.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_2.png": {
+      "train": [],
+      "val": [
+        "train_02330.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_20.png": {
+      "train": [],
+      "val": [
+        "train_02348.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_200.png": {
+      "train": [
+        "train_02528.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_201.png": {
+      "train": [],
+      "val": [
+        "train_02529.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_202.png": {
+      "train": [],
+      "val": [
+        "train_02530.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_203.png": {
+      "train": [
+        "train_02531.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_204.png": {
+      "train": [
+        "train_02532.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_205.png": {
+      "train": [
+        "train_02533.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_206.png": {
+      "train": [
+        "train_02534.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_207.png": {
+      "train": [
+        "train_02535.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_208.png": {
+      "train": [
+        "train_02536.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_209.png": {
+      "train": [
+        "train_02537.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_21.png": {
+      "train": [
+        "train_02349.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_210.png": {
+      "train": [
+        "train_02538.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_211.png": {
+      "train": [
+        "train_02539.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_212.png": {
+      "train": [],
+      "val": [
+        "train_02540.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_213.png": {
+      "train": [
+        "train_02541.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_214.png": {
+      "train": [
+        "train_02542.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_215.png": {
+      "train": [
+        "train_02543.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_216.png": {
+      "train": [],
+      "val": [
+        "train_02544.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_217.png": {
+      "train": [
+        "train_02545.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_218.png": {
+      "train": [
+        "train_02546.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_219.png": {
+      "train": [
+        "train_02547.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_22.png": {
+      "train": [
+        "train_02350.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_220.png": {
+      "train": [
+        "train_02548.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_221.png": {
+      "train": [
+        "train_02549.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_222.png": {
+      "train": [],
+      "val": [
+        "train_02550.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_223.png": {
+      "train": [
+        "train_02551.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_224.png": {
+      "train": [
+        "train_02552.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_225.png": {
+      "train": [
+        "train_02553.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_226.png": {
+      "train": [
+        "train_02554.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_227.png": {
+      "train": [],
+      "val": [
+        "train_02555.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_228.png": {
+      "train": [
+        "train_02556.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_229.png": {
+      "train": [
+        "train_02557.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_23.png": {
+      "train": [],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_230.png": {
+      "train": [
+        "train_02558.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_231.png": {
+      "train": [],
+      "val": [
+        "train_02559.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_232.png": {
+      "train": [
+        "train_02560.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_233.png": {
+      "train": [
+        "train_02561.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_234.png": {
+      "train": [
+        "train_02562.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_235.png": {
+      "train": [],
+      "val": [
+        "train_02563.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_236.png": {
+      "train": [
+        "train_02564.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_237.png": {
+      "train": [
+        "train_02565.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_238.png": {
+      "train": [
+        "train_02566.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_239.png": {
+      "train": [
+        "train_02567.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_24.png": {
+      "train": [
+        "train_02352.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_240.png": {
+      "train": [
+        "train_02568.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_241.png": {
+      "train": [
+        "train_02569.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_242.png": {
+      "train": [
+        "train_02570.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_243.png": {
+      "train": [
+        "train_02571.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_244.png": {
+      "train": [
+        "train_02572.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_245.png": {
+      "train": [
+        "train_02573.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_246.png": {
+      "train": [
+        "train_02574.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_247.png": {
+      "train": [
+        "train_02575.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_248.png": {
+      "train": [
+        "train_02576.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_249.png": {
+      "train": [
+        "train_02577.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_25.png": {
+      "train": [
+        "train_02353.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_250.png": {
+      "train": [
+        "train_02578.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_251.png": {
+      "train": [
+        "train_02579.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_252.png": {
+      "train": [
+        "train_02580.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_253.png": {
+      "train": [
+        "train_02581.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_254.png": {
+      "train": [
+        "train_02582.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_255.png": {
+      "train": [],
+      "val": [
+        "train_02583.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_256.png": {
+      "train": [
+        "train_02584.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_257.png": {
+      "train": [
+        "train_02585.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_258.png": {
+      "train": [
+        "train_02586.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_259.png": {
+      "train": [],
+      "val": [
+        "train_02587.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_26.png": {
+      "train": [
+        "train_02354.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_260.png": {
+      "train": [
+        "train_02588.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_261.png": {
+      "train": [
+        "train_02589.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_262.png": {
+      "train": [
+        "train_02590.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_263.png": {
+      "train": [],
+      "val": [
+        "train_02591.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_264.png": {
+      "train": [
+        "train_02592.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_265.png": {
+      "train": [
+        "train_02593.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_266.png": {
+      "train": [
+        "train_02594.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_267.png": {
+      "train": [
+        "train_02595.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_268.png": {
+      "train": [
+        "train_02596.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_269.png": {
+      "train": [],
+      "val": [
+        "train_02597.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_27.png": {
+      "train": [],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_270.png": {
+      "train": [
+        "train_02598.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_271.png": {
+      "train": [],
+      "val": [
+        "train_02599.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_272.png": {
+      "train": [
+        "train_02600.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_273.png": {
+      "train": [
+        "train_02601.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_274.png": {
+      "train": [
+        "train_02602.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_275.png": {
+      "train": [],
+      "val": [
+        "train_02603.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_276.png": {
+      "train": [],
+      "val": [
+        "train_02604.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_277.png": {
+      "train": [
+        "train_02605.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_278.png": {
+      "train": [
+        "train_02606.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_279.png": {
+      "train": [
+        "train_02607.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_28.png": {
+      "train": [
+        "train_02356.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_280.png": {
+      "train": [
+        "train_02608.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_281.png": {
+      "train": [
+        "train_02609.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_282.png": {
+      "train": [
+        "train_02610.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_283.png": {
+      "train": [
+        "train_02611.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_284.png": {
+      "train": [
+        "train_02612.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_285.png": {
+      "train": [
+        "train_02613.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_286.png": {
+      "train": [
+        "train_02614.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_287.png": {
+      "train": [
+        "train_02615.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_288.png": {
+      "train": [
+        "train_02616.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_289.png": {
+      "train": [],
+      "val": [
+        "train_02617.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_29.png": {
+      "train": [
+        "train_02357.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_290.png": {
+      "train": [
+        "train_02618.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_291.png": {
+      "train": [
+        "train_02619.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_292.png": {
+      "train": [
+        "train_02620.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_293.png": {
+      "train": [
+        "train_02621.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_294.png": {
+      "train": [
+        "train_02622.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_295.png": {
+      "train": [
+        "train_02623.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_296.png": {
+      "train": [
+        "train_02624.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_297.png": {
+      "train": [
+        "train_02625.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_298.png": {
+      "train": [],
+      "val": [
+        "train_02626.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_299.png": {
+      "train": [
+        "train_02627.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_3.png": {
+      "train": [
+        "train_02331.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_30.png": {
+      "train": [
+        "train_02358.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_300.png": {
+      "train": [
+        "train_02628.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_301.png": {
+      "train": [
+        "train_02629.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_302.png": {
+      "train": [
+        "train_02630.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_303.png": {
+      "train": [
+        "train_02631.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_304.png": {
+      "train": [
+        "train_02632.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_305.png": {
+      "train": [
+        "train_02633.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_306.png": {
+      "train": [
+        "train_02634.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_307.png": {
+      "train": [
+        "train_02635.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_308.png": {
+      "train": [
+        "train_02636.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_309.png": {
+      "train": [
+        "train_02637.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_31.png": {
+      "train": [],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_310.png": {
+      "train": [
+        "train_02638.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_311.png": {
+      "train": [
+        "train_02639.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_312.png": {
+      "train": [
+        "train_02640.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_313.png": {
+      "train": [
+        "train_02641.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_314.png": {
+      "train": [],
+      "val": [
+        "train_02642.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_315.png": {
+      "train": [
+        "train_02643.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_316.png": {
+      "train": [
+        "train_02644.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_317.png": {
+      "train": [
+        "train_02645.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_318.png": {
+      "train": [
+        "train_02646.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_319.png": {
+      "train": [
+        "train_02647.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_32.png": {
+      "train": [
+        "train_02360.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_320.png": {
+      "train": [
+        "train_02648.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_321.png": {
+      "train": [
+        "train_02649.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_322.png": {
+      "train": [],
+      "val": [
+        "train_02650.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_323.png": {
+      "train": [
+        "train_02651.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_324.png": {
+      "train": [
+        "train_02652.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_325.png": {
+      "train": [
+        "train_02653.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_326.png": {
+      "train": [
+        "train_02654.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_327.png": {
+      "train": [],
+      "val": [
+        "train_02655.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_328.png": {
+      "train": [],
+      "val": [
+        "train_02656.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_329.png": {
+      "train": [
+        "train_02657.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_33.png": {
+      "train": [
+        "train_02361.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_330.png": {
+      "train": [
+        "train_02658.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_331.png": {
+      "train": [
+        "train_02659.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_332.png": {
+      "train": [
+        "train_02660.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_333.png": {
+      "train": [
+        "train_02661.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_334.png": {
+      "train": [
+        "train_02662.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_335.png": {
+      "train": [
+        "train_02663.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_336.png": {
+      "train": [
+        "train_02664.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_337.png": {
+      "train": [
+        "train_02665.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_338.png": {
+      "train": [
+        "train_02666.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_339.png": {
+      "train": [],
+      "val": [
+        "train_02667.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_34.png": {
+      "train": [],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_340.png": {
+      "train": [],
+      "val": [
+        "train_02668.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_341.png": {
+      "train": [
+        "train_02669.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_342.png": {
+      "train": [
+        "train_02670.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_343.png": {
+      "train": [
+        "train_02671.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_344.png": {
+      "train": [
+        "train_02672.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_345.png": {
+      "train": [
+        "train_02673.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_346.png": {
+      "train": [
+        "train_02674.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_347.png": {
+      "train": [
+        "train_02675.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_348.png": {
+      "train": [],
+      "val": [
+        "train_02676.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_349.png": {
+      "train": [
+        "train_02677.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_35.png": {
+      "train": [
+        "train_02363.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_350.png": {
+      "train": [
+        "train_02678.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_351.png": {
+      "train": [
+        "train_02679.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_352.png": {
+      "train": [
+        "train_02680.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_353.png": {
+      "train": [
+        "train_02681.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_354.png": {
+      "train": [
+        "train_02682.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_355.png": {
+      "train": [
+        "train_02683.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_356.png": {
+      "train": [
+        "train_02684.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_357.png": {
+      "train": [
+        "train_02685.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_358.png": {
+      "train": [
+        "train_02686.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_359.png": {
+      "train": [
+        "train_02687.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_36.png": {
+      "train": [],
+      "val": [
+        "train_02364.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_360.png": {
+      "train": [
+        "train_02688.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_361.png": {
+      "train": [
+        "train_02689.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_362.png": {
+      "train": [
+        "train_02690.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_363.png": {
+      "train": [
+        "train_02691.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_364.png": {
+      "train": [
+        "train_02692.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_365.png": {
+      "train": [
+        "train_02693.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_366.png": {
+      "train": [],
+      "val": [
+        "train_02694.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_367.png": {
+      "train": [],
+      "val": [
+        "train_02695.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_368.png": {
+      "train": [
+        "train_02696.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_369.png": {
+      "train": [
+        "train_02697.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_37.png": {
+      "train": [
+        "train_02365.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_370.png": {
+      "train": [
+        "train_02698.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_371.png": {
+      "train": [
+        "train_02699.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_372.png": {
+      "train": [
+        "train_02700.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_373.png": {
+      "train": [
+        "train_02701.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_374.png": {
+      "train": [
+        "train_02702.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_375.png": {
+      "train": [
+        "train_02703.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_376.png": {
+      "train": [],
+      "val": [
+        "train_02704.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_377.png": {
+      "train": [
+        "train_02705.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_378.png": {
+      "train": [
+        "train_02706.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_379.png": {
+      "train": [
+        "train_02707.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_38.png": {
+      "train": [],
+      "val": [
+        "train_02366.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_380.png": {
+      "train": [
+        "train_02708.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_381.png": {
+      "train": [
+        "train_02709.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_382.png": {
+      "train": [],
+      "val": [
+        "train_02710.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_383.png": {
+      "train": [
+        "train_02711.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_384.png": {
+      "train": [
+        "train_02712.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_385.png": {
+      "train": [
+        "train_02713.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_386.png": {
+      "train": [
+        "train_02714.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_387.png": {
+      "train": [
+        "train_02715.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_388.png": {
+      "train": [
+        "train_02716.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_389.png": {
+      "train": [
+        "train_02717.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_39.png": {
+      "train": [
+        "train_02367.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_390.png": {
+      "train": [
+        "train_02718.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_391.png": {
+      "train": [
+        "train_02719.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_392.png": {
+      "train": [
+        "train_02720.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_393.png": {
+      "train": [
+        "train_02721.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_394.png": {
+      "train": [
+        "train_02722.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_395.png": {
+      "train": [],
+      "val": [
+        "train_02723.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_396.png": {
+      "train": [
+        "train_02724.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_397.png": {
+      "train": [
+        "train_02725.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_398.png": {
+      "train": [],
+      "val": [
+        "train_02726.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_399.png": {
+      "train": [],
+      "val": [
+        "train_02727.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_4.png": {
+      "train": [
+        "train_02332.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_40.png": {
+      "train": [
+        "train_02368.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_400.png": {
+      "train": [
+        "train_02728.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_401.png": {
+      "train": [
+        "train_02729.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_402.png": {
+      "train": [],
+      "val": [
+        "train_02730.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_403.png": {
+      "train": [
+        "train_02731.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_404.png": {
+      "train": [
+        "train_02732.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_405.png": {
+      "train": [
+        "train_02733.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_406.png": {
+      "train": [],
+      "val": [
+        "train_02734.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_407.png": {
+      "train": [],
+      "val": [
+        "train_02735.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_408.png": {
+      "train": [
+        "train_02736.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_409.png": {
+      "train": [
+        "train_02737.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_41.png": {
+      "train": [],
+      "val": [
+        "train_02369.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_410.png": {
+      "train": [],
+      "val": [
+        "train_02738.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_411.png": {
+      "train": [
+        "train_02739.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_412.png": {
+      "train": [
+        "train_02740.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_413.png": {
+      "train": [],
+      "val": [
+        "train_02741.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_414.png": {
+      "train": [
+        "train_02742.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_415.png": {
+      "train": [
+        "train_02743.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_416.png": {
+      "train": [],
+      "val": [
+        "train_02744.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_417.png": {
+      "train": [
+        "train_02745.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_418.png": {
+      "train": [
+        "train_02746.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_419.png": {
+      "train": [
+        "train_02747.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_42.png": {
+      "train": [
+        "train_02370.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_420.png": {
+      "train": [
+        "train_02748.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_421.png": {
+      "train": [
+        "train_02749.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_422.png": {
+      "train": [
+        "train_02750.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_423.png": {
+      "train": [
+        "train_02751.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_424.png": {
+      "train": [
+        "train_02752.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_425.png": {
+      "train": [],
+      "val": [
+        "train_02753.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_426.png": {
+      "train": [],
+      "val": [
+        "train_02754.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_427.png": {
+      "train": [
+        "train_02755.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_43.png": {
+      "train": [
+        "train_02371.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_44.png": {
+      "train": [
+        "train_02372.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_45.png": {
+      "train": [
+        "train_02373.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_46.png": {
+      "train": [],
+      "val": [
+        "train_02374.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_47.png": {
+      "train": [
+        "train_02375.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_48.png": {
+      "train": [],
+      "val": [
+        "train_02376.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_49.png": {
+      "train": [],
+      "val": [
+        "train_02377.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_5.png": {
+      "train": [],
+      "val": [
+        "train_02333.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_50.png": {
+      "train": [
+        "train_02378.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_51.png": {
+      "train": [
+        "train_02379.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_52.png": {
+      "train": [
+        "train_02380.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_53.png": {
+      "train": [
+        "train_02381.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_54.png": {
+      "train": [
+        "train_02382.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_55.png": {
+      "train": [
+        "train_02383.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_56.png": {
+      "train": [
+        "train_02384.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_57.png": {
+      "train": [
+        "train_02385.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_58.png": {
+      "train": [
+        "train_02386.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_59.png": {
+      "train": [
+        "train_02387.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_6.png": {
+      "train": [
+        "train_02334.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_60.png": {
+      "train": [
+        "train_02388.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_61.png": {
+      "train": [
+        "train_02389.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_62.png": {
+      "train": [
+        "train_02390.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_63.png": {
+      "train": [
+        "train_02391.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_64.png": {
+      "train": [
+        "train_02392.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_65.png": {
+      "train": [
+        "train_02393.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_66.png": {
+      "train": [
+        "train_02394.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_67.png": {
+      "train": [
+        "train_02395.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_68.png": {
+      "train": [],
+      "val": [
+        "train_02396.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_69.png": {
+      "train": [],
+      "val": [
+        "train_02397.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_7.png": {
+      "train": [
+        "train_02335.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_70.png": {
+      "train": [
+        "train_02398.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_71.png": {
+      "train": [
+        "train_02399.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_72.png": {
+      "train": [
+        "train_02400.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_73.png": {
+      "train": [],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_74.png": {
+      "train": [],
+      "val": [
+        "train_02402.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_75.png": {
+      "train": [
+        "train_02403.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_76.png": {
+      "train": [
+        "train_02404.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_77.png": {
+      "train": [
+        "train_02405.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_78.png": {
+      "train": [
+        "train_02406.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_79.png": {
+      "train": [
+        "train_02407.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_8.png": {
+      "train": [
+        "train_02336.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_80.png": {
+      "train": [
+        "train_02408.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_81.png": {
+      "train": [
+        "train_02409.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_82.png": {
+      "train": [
+        "train_02410.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_83.png": {
+      "train": [
+        "train_02411.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_84.png": {
+      "train": [],
+      "val": [
+        "train_02412.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_85.png": {
+      "train": [
+        "train_02413.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_86.png": {
+      "train": [],
+      "val": [
+        "train_02414.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_87.png": {
+      "train": [
+        "train_02415.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_88.png": {
+      "train": [
+        "train_02416.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_89.png": {
+      "train": [
+        "train_02417.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_9.png": {
+      "train": [
+        "train_02337.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_90.png": {
+      "train": [
+        "train_02418.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_91.png": {
+      "train": [
+        "train_02419.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_92.png": {
+      "train": [
+        "train_02420.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_93.png": {
+      "train": [
+        "train_02421.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_94.png": {
+      "train": [
+        "train_02422.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_95.png": {
+      "train": [],
+      "val": [
+        "train_02423.png"
+      ],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_96.png": {
+      "train": [
+        "train_02424.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_97.png": {
+      "train": [
+        "train_02425.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_98.png": {
+      "train": [
+        "train_02426.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    },
+    "Misc_99.png": {
+      "train": [
+        "train_02427.png"
+      ],
+      "val": [],
+      "raw_train": [],
+      "raw_val": []
+    }
+  }
+}

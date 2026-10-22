@@ -1,0 +1,20 @@
+{
+  "NUAA-SIRST": {
+    "status": "passed",
+    "images": 213,
+    "targets": 262,
+    "same_named_test_ids_in_model_train_validation": 0,
+    "all_visualizations_present": true,
+    "all_binary_masks_shape_checked": true,
+    "box_padding": 0
+  },
+  "NUDT-SIRST": {
+    "status": "passed",
+    "images": 664,
+    "targets": 945,
+    "same_named_test_ids_in_model_train_validation": 0,
+    "all_visualizations_present": true,
+    "all_binary_masks_shape_checked": true,
+    "box_padding": 0
+  }
+}

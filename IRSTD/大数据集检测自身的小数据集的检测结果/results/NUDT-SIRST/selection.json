@@ -1,0 +1,13 @@
+{
+  "dataset": "NUDT-SIRST",
+  "source": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST",
+  "split_file": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\img_idx\\test_NUDT-SIRST.txt",
+  "selected_split": "test",
+  "test_images": 664,
+  "test_names_match_model_test": true,
+  "test_filenames_in_model_train_val": 0,
+  "evaluation_scope": "Held-out test split from a dataset used as part of this model training sources; not unseen-domain evaluation.",
+  "ground_truth_definition": "Original nonzero binary mask, 8-connected components as instances; half-open tight boxes [xmin,ymin,xmax+1,ymax+1]. No polygon approximation.",
+  "evaluated_images": 664,
+  "excluded": []
+}

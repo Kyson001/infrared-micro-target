@@ -1,0 +1,1 @@
+{"image": "Misc_188.png", "width": 290, "height": 196, "coordinate_convention": "zero-based [x,y]; origin top-left; x rightward, y downward", "foreground_pixels": 4, "pixels_xy": [[75, 33], [76, 33], [75, 34], [76, 34]], "instances": [{"instance_id": 1, "confidence": 0.682454526424408, "area_pixels": 4, "centroid_xy": [75.5, 33.5]}]}

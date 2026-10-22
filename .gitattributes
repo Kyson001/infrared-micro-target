@@ -12,3 +12,7 @@ datasets/** -text -whitespace
 datasets/file_checksums.json text eol=lf
 .gitignore text eol=lf
 .gitattributes text eol=lf
+
+# Preserve uploaded experiment artifacts byte-for-byte.
+IRSTD/** -text -whitespace
+NUDT_SIRST_seg_scratch/** -text -whitespace

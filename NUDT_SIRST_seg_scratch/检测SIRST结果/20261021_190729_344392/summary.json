@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-10-21T19:07:39.260720+08:00",
+  "weights": "C:\\Users\\Kyson\\Desktop\\目标识别\\outputs\\NUDT_SIRST_seg_scratch\\yolo26n_seg_scratch\\weights\\best.pt",
+  "weights_sha256": "cf10092f5ffdd87bd47b72a44f2ed868234525bb1f29e77efa4306a149614d4f",
+  "data": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST",
+  "dataset_name": "SIRST",
+  "training_data_audited": "C:\\Users\\Kyson\\Desktop\\目标识别\\datasets\\NUDT_SIRST_seg_scratch",
+  "training_name": "NUDT-SIRST",
+  "input_images": 427,
+  "invalid_ground_truth": [
+    {
+      "image": "Misc_111.png",
+      "image_shape_hw": [
+        220,
+        325
+      ],
+      "mask_shape_hw": [
+        400,
+        592
+      ]
+    }
+  ],
+  "conf": 0.25,
+  "imgsz": 1024,
+  "retina_masks": true,
+  "mask_binarization": "Ultralytics returns binary masks; exported with >0.5",
+  "object_rule": "8-connected components; one-to-one centroid distance <=3 original pixels",
+  "versions": {
+    "ultralytics": "8.4.51",
+    "torch": "2.5.1+cu121"
+  },
+  "device": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "prediction_and_saving_seconds": 8.908746599990991,
+  "mean_model_inference_ms_per_image": 7.272954566688582,
+  "total_seconds": 9.917616199993063,
+  "metrics": {
+    "all": {
+      "images": 426,
+      "tp": 7021,
+      "fp": 975,
+      "fn": 10465,
+      "total_pixels": 28864647,
+      "gt_objects": 532,
+      "pred_objects": 441,
+      "matched_objects": 410,
+      "pixel_IoU": 0.3803152591950599,
+      "pixel_Dice": 0.5510556471234597,
+      "pixel_precision": 0.878064032016008,
+      "pixel_recall": 0.40152121697357884,
+      "mean_image_IoU": 0.4154026417901872,
+      "false_pixels_per_million": 33.77834483823759,
+      "object_hit_rate_3px": 0.7706766917293233,
+      "object_precision_3px": 0.9297052154195011,
+      "missed_objects": 122,
+      "unmatched_pred_components": 31,
+      "images_with_exact_training_file_match": 0,
+      "images_with_exact_validation_file_match": 0,
+      "images_with_decoded_training_pixel_match": 0,
+      "images_with_decoded_validation_pixel_match": 0
+    },
+    "original_train": {
+      "images": 213,
+      "tp": 3678,
+      "fp": 433,
+      "fn": 5455,
+      "total_pixels": 14359069,
+      "gt_objects": 270,
+      "pred_objects": 218,
+      "matched_objects": 206,
+      "pixel_IoU": 0.3844867238135062,
+      "pixel_Dice": 0.5554213228631834,
+      "pixel_precision": 0.8946728289953783,
+      "pixel_recall": 0.4027154275703493,
+      "mean_image_IoU": 0.4128898150321023,
+      "false_pixels_per_million": 30.155158388054268,
+      "object_hit_rate_3px": 0.762962962962963,
+      "object_precision_3px": 0.944954128440367,
+      "missed_objects": 64,
+      "unmatched_pred_components": 12,
+      "images_with_exact_training_file_match": 0,
+      "images_with_exact_validation_file_match": 0,
+      "images_with_decoded_training_pixel_match": 0,
+      "images_with_decoded_validation_pixel_match": 0
+    },
+    "original_test": {
+      "images": 213,
+      "tp": 3343,
+      "fp": 542,
+      "fn": 5010,
+      "total_pixels": 14505578,
+      "gt_objects": 262,
+      "pred_objects": 223,
+      "matched_objects": 204,
+      "pixel_IoU": 0.3758291174817313,
+      "pixel_Dice": 0.5463310998529172,
+      "pixel_precision": 0.8604890604890605,
+      "pixel_recall": 0.40021549144020113,
+      "mean_image_IoU": 0.4179154685482721,
+      "false_pixels_per_million": 37.364936440312825,
+      "object_hit_rate_3px": 0.7786259541984732,
+      "object_precision_3px": 0.9147982062780269,
+      "missed_objects": 58,
+      "unmatched_pred_components": 19,
+      "images_with_exact_training_file_match": 0,
+      "images_with_exact_validation_file_match": 0,
+      "images_with_decoded_training_pixel_match": 0,
+      "images_with_decoded_validation_pixel_match": 0
+    }
+  }
+}

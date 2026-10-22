@@ -1,0 +1,66 @@
+{
+  "dataset": "NUAA-SIRST",
+  "images": 213,
+  "targets": 262,
+  "model": "C:\\Users\\Kyson\\Desktop\\掩膜\\all4_yolo26n_segment_best.pt",
+  "model_sha256": "8d314abb8b9c11b298e357de3d25d88ba7f7955df7494ad51efbb1ff75d8d5bc",
+  "imgsz": 1024,
+  "prediction_conf": 0.001,
+  "operating_conf": 0.25,
+  "operating_box_iou": 0.5,
+  "nms_iou": 0.7,
+  "max_det": 300,
+  "TP": 204,
+  "FP": 56,
+  "FN": 58,
+  "precision": 0.7846153846153846,
+  "recall": 0.7786259541984732,
+  "F1": 0.7816091954022989,
+  "bbox_coco": {
+    "AP50_95": 0.32928521283987094,
+    "AP50": 0.8093769310178859,
+    "AP75": 0.19911784679389027,
+    "AR100": 0.4889312977099237
+  },
+  "inference_wall_seconds": 5.168099641799927,
+  "ultralytics": "8.4.51",
+  "torch": "2.5.1+cu121",
+  "GPU": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "speed_ms": {
+    "preprocess": 4.980156338060966,
+    "inference": 7.865086384944261,
+    "postprocess": 0.7874915493079576
+  },
+  "end2end": true,
+  "nms_applied": false,
+  "box_padding_pixels_per_side": 0.0,
+  "box_padding_coordinate_space": "original_image_pixels",
+  "output_directory": "C:\\Users\\Kyson\\Desktop\\检测结果\\results\\NUAA-SIRST",
+  "postprocessing_note": "Only predicted box coordinates are padded and clipped. Mask geometry, ground truth, and confidence scores are unchanged. Padded-box results are a separate postprocessing experiment.",
+  "mask_targets": 262,
+  "segmentation_coco": {
+    "AP50_95": 0.26198567127749106,
+    "AP50": 0.7240444348123481,
+    "AP75": 0.12498383043972118,
+    "AR100": 0.4568702290076335
+  },
+  "pixel_IoU": 0.5642795513373597,
+  "pixel_Dice": 0.7214561500275786,
+  "mean_image_IoU": 0.5751725572647687,
+  "pixel_precision": 0.8505933994472443,
+  "pixel_recall": 0.6263617861846044,
+  "false_positive_pixels_per_million": 63.35493835543817,
+  "sequences": [
+    {
+      "sequence": "single_frame_test",
+      "images": 213,
+      "targets": 262,
+      "TP": 204,
+      "FP": 56,
+      "FN": 58,
+      "precision": 0.7846153846153846,
+      "recall": 0.7786259541984732,
+      "F1": 0.7816091954022989
+    }
+  ]
+}

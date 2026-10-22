@@ -1,0 +1,3986 @@
+[
+  {
+    "id": 1,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000541.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000541.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 2,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000832.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000832.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 3,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000710.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000710.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 4,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000316.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000316.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 5,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001142.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001142.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 6,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000409.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000409.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 7,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000226.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000226.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 8,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001133.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001133.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 9,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001255.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001255.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 10,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000558.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000558.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 11,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001000.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001000.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 12,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000763.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000763.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 13,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000385.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000385.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 14,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001319.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001319.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 15,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000591.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000591.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 16,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000484.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000484.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 17,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001236.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001236.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 18,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000334.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000334.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 19,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000915.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000915.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 20,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000523.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000523.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 21,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000765.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000765.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 22,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000215.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000215.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 23,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000045.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000045.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 24,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001303.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001303.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 25,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000644.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000644.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 26,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001190.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001190.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 27,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001026.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001026.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 28,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001089.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001089.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 29,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000720.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000720.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 30,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000195.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000195.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 31,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000519.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000519.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 32,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001111.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001111.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 33,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000922.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000922.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 34,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000965.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000965.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 35,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000080.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000080.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 36,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000751.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000751.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 37,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000281.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000281.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 38,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000849.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000849.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 39,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000495.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000495.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 40,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001257.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001257.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 41,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000966.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000966.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 42,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001267.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001267.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 43,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000091.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000091.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 44,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000935.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000935.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 45,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000314.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000314.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 46,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000128.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000128.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 47,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001169.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001169.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 48,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000701.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000701.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 49,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000903.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000903.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 50,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000144.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000144.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 51,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000613.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000613.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 52,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000313.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000313.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 53,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000552.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000552.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 54,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000787.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000787.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 55,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000536.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000536.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 56,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000423.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000423.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 57,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000389.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000389.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 58,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001235.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001235.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 59,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000615.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000615.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 60,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000366.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000366.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 61,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000399.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000399.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 62,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001155.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001155.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 63,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000625.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000625.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 64,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000610.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000610.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 65,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001050.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001050.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 66,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001148.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001148.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 67,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000440.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000440.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 68,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000032.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000032.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 69,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000812.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000812.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 70,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000830.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000830.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 71,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000771.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000771.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 72,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000324.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000324.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 73,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001161.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001161.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 74,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000209.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000209.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 75,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000645.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000645.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 76,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000897.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000897.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 77,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001036.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001036.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 78,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000200.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000200.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 79,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000708.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000708.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 80,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000474.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000474.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 81,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000840.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000840.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 82,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000554.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000554.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 83,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000011.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000011.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 84,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000603.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000603.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 85,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000560.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000560.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 86,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000550.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000550.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 87,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000498.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000498.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 88,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000243.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000243.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 89,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000433.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000433.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 90,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000106.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000106.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 91,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000036.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000036.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 92,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000574.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000574.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 93,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000837.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000837.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 94,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000608.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000608.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 95,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000341.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000341.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 96,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000863.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000863.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 97,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000907.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000907.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 98,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000600.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000600.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 99,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000361.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000361.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 100,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000555.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000555.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 101,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000636.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000636.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 102,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000509.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000509.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 103,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000799.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000799.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 104,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000062.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000062.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 105,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000297.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000297.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 106,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000933.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000933.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 107,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000374.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000374.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 108,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000928.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000928.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 109,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000910.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000910.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 110,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000131.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000131.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 111,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000191.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000191.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 112,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000216.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000216.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 113,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000373.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000373.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 114,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000556.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000556.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 115,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000417.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000417.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 116,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000485.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000485.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 117,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000557.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000557.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 118,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000153.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000153.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 119,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000955.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000955.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 120,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000511.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000511.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 121,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001038.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001038.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 122,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001239.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001239.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 123,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000986.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000986.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 124,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000740.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000740.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 125,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001018.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001018.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 126,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001068.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001068.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 127,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000902.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000902.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 128,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001221.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001221.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 129,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000510.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000510.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 130,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000212.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000212.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 131,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000026.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000026.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 132,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001320.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001320.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 133,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001074.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001074.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 134,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000189.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000189.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 135,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000335.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000335.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 136,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000295.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000295.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 137,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001265.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001265.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 138,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001206.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001206.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 139,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000637.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000637.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 140,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000349.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000349.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 141,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001122.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001122.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 142,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001178.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001178.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 143,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000944.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000944.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 144,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001135.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001135.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 145,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000113.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000113.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 146,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000041.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000041.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 147,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000575.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000575.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 148,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000757.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000757.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 149,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000882.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000882.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 150,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000917.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000917.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 151,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000909.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000909.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 152,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000569.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000569.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 153,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001167.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001167.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 154,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001212.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001212.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 155,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000801.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000801.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 156,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000466.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000466.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 157,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000449.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000449.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 158,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000913.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000913.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 159,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000607.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000607.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 160,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001218.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001218.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 161,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001096.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001096.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 162,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000850.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000850.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 163,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001151.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001151.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 164,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000426.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000426.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 165,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000908.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000908.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 166,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000286.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000286.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 167,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001280.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001280.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 168,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000167.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000167.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 169,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000332.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000332.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 170,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000499.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000499.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 171,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001066.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001066.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 172,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000611.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000611.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 173,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001188.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001188.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 174,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001238.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001238.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 175,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001195.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001195.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 176,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000980.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000980.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 177,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000194.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000194.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 178,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000315.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000315.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 179,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000391.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000391.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 180,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000704.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000704.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 181,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000930.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000930.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 182,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000150.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000150.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 183,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000687.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000687.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 184,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000394.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000394.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 185,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000988.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000988.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 186,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000535.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000535.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 187,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001278.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001278.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 188,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000867.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000867.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 189,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000371.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000371.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 190,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000355.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000355.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 191,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000722.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000722.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 192,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000178.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000178.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 193,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001215.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001215.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 194,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000747.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000747.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 195,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001162.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001162.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 196,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000001.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000001.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 197,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000405.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000405.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 198,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001097.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001097.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 199,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000506.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000506.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 200,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001102.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001102.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 201,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000326.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000326.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 202,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000737.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000737.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 203,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000302.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000302.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 204,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000699.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000699.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 205,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000715.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000715.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 206,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000874.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000874.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 207,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000713.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000713.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 208,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001244.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001244.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 209,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000589.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000589.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 210,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001144.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001144.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 211,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001213.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001213.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 212,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000689.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000689.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 213,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000266.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000266.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 214,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000563.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000563.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 215,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000395.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000395.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 216,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000415.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000415.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 217,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000749.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000749.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 218,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000330.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000330.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 219,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000300.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000300.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 220,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000071.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000071.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 221,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001264.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001264.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 222,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000237.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000237.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 223,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000973.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000973.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 224,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001076.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001076.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 225,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000666.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000666.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 226,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001079.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001079.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 227,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000532.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000532.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 228,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000820.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000820.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 229,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000207.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000207.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 230,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000182.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000182.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 231,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001176.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001176.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 232,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001272.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001272.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 233,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000047.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000047.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 234,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000268.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000268.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 235,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000906.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000906.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 236,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000351.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000351.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 237,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000633.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000633.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 238,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000025.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000025.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 239,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000957.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000957.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 240,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000176.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000176.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 241,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000220.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000220.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 242,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000188.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000188.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 243,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001006.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001006.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 244,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000926.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000926.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 245,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001129.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001129.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 246,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000599.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000599.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 247,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000684.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000684.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 248,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000155.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000155.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 249,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000703.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000703.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 250,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001143.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001143.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 251,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000620.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000620.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 252,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000075.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000075.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 253,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000839.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000839.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 254,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001300.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001300.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 255,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001186.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001186.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 256,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000197.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000197.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 257,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000811.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000811.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 258,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000601.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000601.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 259,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001040.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001040.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 260,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000735.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000735.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 261,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001029.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001029.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 262,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000623.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000623.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 263,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000436.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000436.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 264,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001242.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001242.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 265,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000813.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000813.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 266,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000493.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000493.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 267,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001053.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001053.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 268,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000410.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000410.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 269,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000936.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000936.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 270,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000473.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000473.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 271,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000478.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000478.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 272,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000458.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000458.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 273,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000709.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000709.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 274,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001307.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001307.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 275,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000781.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000781.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 276,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001023.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001023.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 277,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001004.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001004.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 278,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000359.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000359.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 279,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000287.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000287.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 280,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000482.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000482.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 281,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000941.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000941.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 282,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000067.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000067.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 283,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000284.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000284.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 284,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000447.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000447.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 285,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000894.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000894.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 286,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000163.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000163.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 287,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000059.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000059.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 288,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001222.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001222.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 289,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001268.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001268.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 290,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000744.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000744.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 291,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000921.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000921.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 292,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000173.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000173.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 293,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000378.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000378.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 294,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000806.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000806.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 295,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000629.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000629.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 296,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000870.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000870.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 297,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000860.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000860.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 298,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000660.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000660.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 299,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000664.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000664.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 300,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000533.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000533.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 301,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000617.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000617.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 302,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001145.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001145.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 303,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000961.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000961.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 304,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000940.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000940.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 305,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000365.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000365.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 306,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001003.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001003.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 307,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000305.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000305.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 308,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001317.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001317.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 309,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001314.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001314.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 310,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000352.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000352.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 311,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000898.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000898.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 312,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000883.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000883.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 313,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001309.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001309.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 314,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000732.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000732.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 315,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000336.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000336.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 316,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000622.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000622.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 317,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001232.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001232.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 318,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000166.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000166.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 319,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000392.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000392.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 320,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000231.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000231.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 321,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001281.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001281.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 322,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001199.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001199.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 323,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000893.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000893.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 324,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000879.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000879.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 325,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000084.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000084.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 326,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001174.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001174.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 327,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000377.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000377.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 328,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001063.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001063.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 329,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000628.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000628.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 330,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000537.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000537.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 331,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000772.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000772.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 332,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000100.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000100.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 333,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000043.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000043.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 334,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000291.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000291.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 335,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000918.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000918.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 336,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000548.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000548.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 337,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000729.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000729.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 338,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000475.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000475.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 339,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000731.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000731.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 340,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000974.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000974.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 341,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001047.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001047.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 342,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000595.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000595.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 343,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000508.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000508.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 344,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001101.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001101.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 345,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001248.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001248.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 346,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001107.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001107.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 347,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001127.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001127.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 348,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001253.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001253.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 349,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000920.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000920.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 350,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000021.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000021.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 351,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000742.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000742.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 352,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000140.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000140.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 353,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000320.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000320.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 354,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001209.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001209.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 355,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000434.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000434.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 356,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000120.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000120.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 357,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000711.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000711.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 358,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000137.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000137.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 359,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000249.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000249.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 360,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000995.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000995.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 361,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001084.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001084.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 362,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001273.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001273.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 363,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000845.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000845.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 364,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000452.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000452.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 365,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001220.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001220.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 366,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000553.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000553.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 367,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000003.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000003.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 368,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000984.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000984.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 369,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000086.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000086.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 370,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000967.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000967.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 371,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000788.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000788.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 372,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000416.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000416.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 373,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000138.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000138.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 374,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000112.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000112.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 375,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001114.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001114.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 376,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001308.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001308.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 377,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000053.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000053.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 378,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000762.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000762.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 379,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000333.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000333.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 380,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001081.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001081.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 381,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001287.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001287.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 382,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000821.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000821.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 383,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001302.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001302.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 384,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000480.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000480.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 385,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000775.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000775.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 386,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000525.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000525.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 387,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001262.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001262.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 388,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000124.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000124.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 389,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001069.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001069.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 390,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000782.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000782.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 391,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000490.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000490.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 392,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000010.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000010.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 393,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000465.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000465.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 394,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001286.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001286.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 395,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001060.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001060.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 396,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000685.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000685.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 397,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000717.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000717.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 398,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000939.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000939.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 399,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000027.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000027.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 400,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000971.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000971.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 401,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000727.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000727.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 402,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000170.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000170.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 403,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000187.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000187.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 404,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000671.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000671.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 405,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000976.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000976.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 406,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000562.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000562.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 407,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000651.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000651.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 408,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000831.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000831.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 409,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000397.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000397.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 410,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000157.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000157.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 411,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000682.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000682.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 412,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001227.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001227.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 413,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001010.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001010.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 414,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000294.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000294.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 415,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000159.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000159.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 416,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001088.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001088.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 417,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001241.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001241.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 418,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001229.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001229.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 419,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000289.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000289.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 420,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000169.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000169.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 421,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000135.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000135.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 422,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000090.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000090.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 423,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000456.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000456.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 424,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000691.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000691.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 425,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000382.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000382.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 426,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000483.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000483.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 427,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000528.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000528.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 428,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000889.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000889.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 429,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000060.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000060.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 430,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001326.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001326.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 431,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000520.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000520.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 432,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000269.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000269.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 433,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000706.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000706.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 434,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001020.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001020.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 435,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000502.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000502.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 436,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000492.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000492.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 437,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001153.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001153.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 438,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000521.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000521.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 439,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000496.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000496.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 440,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000538.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000538.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 441,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000009.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000009.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 442,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001294.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001294.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 443,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000542.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000542.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 444,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000127.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000127.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 445,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000192.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000192.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 446,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001237.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001237.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 447,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000406.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000406.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 448,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001055.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001055.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 449,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001251.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001251.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 450,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001315.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001315.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 451,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000151.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000151.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 452,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001180.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001180.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 453,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001250.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001250.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 454,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000901.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000901.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 455,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000816.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000816.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 456,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000273.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000273.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 457,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000545.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000545.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 458,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000912.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000912.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 459,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000583.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000583.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 460,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000285.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000285.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 461,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000678.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000678.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 462,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000992.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000992.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 463,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000386.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000386.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 464,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000022.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000022.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 465,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000573.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000573.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 466,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001075.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001075.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 467,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000927.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000927.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 468,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001304.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001304.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 469,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000219.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000219.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 470,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001291.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001291.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 471,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000786.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000786.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 472,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000348.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000348.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 473,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000861.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000861.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 474,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000785.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000785.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 475,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000875.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000875.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 476,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001191.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001191.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 477,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000853.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000853.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 478,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001008.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001008.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 479,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000817.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000817.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 480,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000721.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000721.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 481,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000807.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000807.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 482,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000122.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000122.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 483,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001083.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001083.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 484,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000261.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000261.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 485,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000588.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000588.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 486,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000587.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000587.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 487,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000880.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000880.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 488,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001311.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001311.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 489,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000835.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000835.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 490,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001021.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001021.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 491,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000714.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000714.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 492,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000081.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000081.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 493,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000420.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000420.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 494,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001103.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001103.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 495,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000142.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000142.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 496,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000270.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000270.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 497,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001160.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001160.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 498,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001224.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001224.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 499,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000792.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000792.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 500,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000019.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000019.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 501,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000470.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000470.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 502,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000529.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000529.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 503,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001141.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001141.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 504,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000646.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000646.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 505,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000656.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000656.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 506,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000815.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000815.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 507,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000885.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000885.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 508,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000924.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000924.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 509,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001254.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001254.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 510,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000111.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000111.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 511,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000598.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000598.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 512,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001120.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001120.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 513,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001087.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001087.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 514,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000020.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000020.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 515,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000214.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000214.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 516,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000724.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000724.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 517,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000582.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000582.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 518,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001234.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001234.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 519,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000983.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000983.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 520,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000759.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000759.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 521,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001149.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001149.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 522,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001044.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001044.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 523,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000665.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000665.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 524,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000107.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000107.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 525,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001322.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001322.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 526,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001210.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001210.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 527,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000448.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000448.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 528,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000260.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000260.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 529,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000579.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000579.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 530,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000996.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000996.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 531,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001246.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001246.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 532,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000698.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000698.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 533,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000783.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000783.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 534,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000240.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000240.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 535,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000862.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000862.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 536,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000616.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000616.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 537,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000051.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000051.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 538,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000400.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000400.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 539,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000455.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000455.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 540,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000809.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000809.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 541,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001013.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001013.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 542,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000110.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000110.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 543,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000634.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000634.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 544,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000838.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000838.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 545,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001184.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001184.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 546,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001077.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001077.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 547,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000694.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000694.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 548,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000412.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000412.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 549,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000836.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000836.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 550,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000344.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000344.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 551,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001240.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001240.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 552,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000259.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000259.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 553,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000439.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000439.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 554,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000766.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000766.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 555,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001202.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001202.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 556,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000093.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000093.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 557,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000507.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000507.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 558,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000303.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000303.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 559,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000262.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000262.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 560,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000092.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000092.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 561,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000890.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000890.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 562,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000789.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000789.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 563,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000784.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000784.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 564,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000272.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000272.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 565,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000186.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000186.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 566,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000500.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000500.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 567,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000734.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000734.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 568,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000887.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000887.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 569,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000476.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000476.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 570,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000960.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000960.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 571,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000202.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000202.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 572,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001034.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001034.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 573,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001214.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001214.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 574,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000516.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000516.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 575,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000808.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000808.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 576,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000346.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000346.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 577,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000680.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000680.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 578,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001289.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001289.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 579,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001042.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001042.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 580,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000802.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000802.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 581,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001139.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001139.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 582,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000640.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000640.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 583,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000803.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000803.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 584,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000329.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000329.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 585,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001123.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001123.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 586,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000761.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000761.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 587,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001028.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001028.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 588,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000650.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000650.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 589,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000133.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000133.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 590,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000592.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000592.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 591,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000148.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000148.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 592,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000866.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000866.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 593,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000230.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000230.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 594,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001012.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001012.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 595,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000055.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000055.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 596,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000252.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000252.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 597,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000421.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000421.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 598,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000425.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000425.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 599,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000596.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000596.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 600,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000296.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000296.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 601,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001325.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001325.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 602,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000255.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000255.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 603,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001092.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001092.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 604,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000362.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000362.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 605,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000450.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000450.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 606,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001183.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001183.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 607,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000046.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000046.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 608,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000648.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000648.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 609,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000370.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000370.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 610,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001128.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001128.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 611,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001175.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001175.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 612,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000730.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000730.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 613,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001154.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001154.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 614,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000963.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000963.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 615,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001098.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001098.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 616,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000654.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000654.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 617,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001112.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001112.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 618,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000319.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000319.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 619,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000398.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000398.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 620,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001298.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001298.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 621,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001057.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001057.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 622,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001125.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001125.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 623,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000012.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000012.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 624,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000756.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000756.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 625,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000141.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000141.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 626,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000931.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000931.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 627,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000581.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000581.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 628,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000463.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000463.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 629,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001259.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001259.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 630,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000985.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000985.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 631,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000076.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000076.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 632,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000632.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000632.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 633,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000162.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000162.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 634,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000954.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000954.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 635,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000779.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000779.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 636,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000233.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000233.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 637,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000614.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000614.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 638,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001126.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001126.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 639,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001288.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001288.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 640,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001283.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001283.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 641,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000790.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000790.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 642,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000023.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000023.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 643,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000380.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000380.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 644,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000661.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000661.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 645,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000923.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000923.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 646,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000225.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000225.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 647,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000156.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000156.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 648,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000390.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000390.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 649,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000597.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000597.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 650,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000468.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000468.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 651,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000606.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000606.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 652,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000307.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000307.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 653,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000630.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000630.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 654,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001223.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001223.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 655,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000038.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000038.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 656,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000224.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000224.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 657,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000673.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000673.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 658,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001193.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001193.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 659,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000016.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000016.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 660,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000015.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000015.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 661,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001110.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001110.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 662,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\001204.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\001204.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 663,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000683.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000683.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 664,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\images\\000353.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUDT-SIRST\\masks\\000353.png",
+    "sequence": "single_frame_test"
+  }
+]

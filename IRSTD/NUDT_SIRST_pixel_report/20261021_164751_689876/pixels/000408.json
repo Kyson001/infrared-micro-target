@@ -1,0 +1,1 @@
+{"image": "000408.png", "width": 256, "height": 256, "coordinate_convention": "zero-based [x,y]; origin top-left; x rightward, y downward", "foreground_pixels": 6, "pixels_xy": [[87, 18], [88, 18], [87, 19], [88, 19], [87, 20], [87, 21]], "instances": [{"instance_id": 1, "confidence": 0.293118953704834, "area_pixels": 6, "centroid_xy": [87.33333333333333, 19.166666666666668]}]}

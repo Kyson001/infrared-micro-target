@@ -1,0 +1,17 @@
+[
+  {
+    "dataset": "NUAA-SIRST",
+    "stem": "Misc_111",
+    "reason": "image_mask_dimension_mismatch",
+    "image": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_111.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_111.png",
+    "image_shape": [
+      220,
+      325
+    ],
+    "mask_shape": [
+      400,
+      592
+    ]
+  }
+]

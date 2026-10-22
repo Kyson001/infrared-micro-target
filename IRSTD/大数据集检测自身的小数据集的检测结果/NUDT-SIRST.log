@@ -1,0 +1,123 @@
+MODEL segment {0: 'target'} IMAGES 664 GT 945 BOX PAD 0.0 OUTPUT C:\Users\Kyson\Desktop\检测结果\results\NUDT-SIRST
+NUDT-SIRST: 8/664, 0.7s
+NUDT-SIRST: 88/664, 2.3s
+NUDT-SIRST: 168/664, 3.8s
+NUDT-SIRST: 248/664, 5.4s
+NUDT-SIRST: 328/664, 7.0s
+NUDT-SIRST: 408/664, 8.6s
+NUDT-SIRST: 488/664, 10.2s
+NUDT-SIRST: 568/664, 11.9s
+NUDT-SIRST: 648/664, 13.4s
+NUDT-SIRST: 664/664, 13.7s
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.01s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=0.22s).
+Accumulating evaluation results...
+DONE (t=0.04s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.337
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.755
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.309
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.337
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.274
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.513
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.539
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.539
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = -1.000
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.02s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *segm*
+DONE (t=0.29s).
+Accumulating evaluation results...
+DONE (t=0.04s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.284
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.644
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.245
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.284
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.246
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.429
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.460
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.460
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = -1.000
+{
+  "dataset": "NUDT-SIRST",
+  "images": 664,
+  "targets": 945,
+  "model": "C:\\Users\\Kyson\\Desktop\\掩膜\\all4_yolo26n_segment_best.pt",
+  "model_sha256": "8d314abb8b9c11b298e357de3d25d88ba7f7955df7494ad51efbb1ff75d8d5bc",
+  "imgsz": 1024,
+  "prediction_conf": 0.001,
+  "operating_conf": 0.25,
+  "operating_box_iou": 0.5,
+  "nms_iou": 0.7,
+  "max_det": 300,
+  "TP": 725,
+  "FP": 417,
+  "FN": 220,
+  "precision": 0.6348511383537653,
+  "recall": 0.7671957671957672,
+  "F1": 0.6947771921418304,
+  "bbox_coco": {
+    "AP50_95": 0.33652226630248594,
+    "AP50": 0.7546420594687595,
+    "AP75": 0.309151644984644,
+    "AR100": 0.5394708994708994
+  },
+  "inference_wall_seconds": 14.058743953704834,
+  "ultralytics": "8.4.51",
+  "torch": "2.5.1+cu121",
+  "GPU": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "speed_ms": {
+    "preprocess": 5.531578915657431,
+    "inference": 7.56255225903523,
+    "postprocess": 0.6877274096227501
+  },
+  "end2end": true,
+  "nms_applied": false,
+  "box_padding_pixels_per_side": 0.0,
+  "box_padding_coordinate_space": "original_image_pixels",
+  "output_directory": "C:\\Users\\Kyson\\Desktop\\检测结果\\results\\NUDT-SIRST",
+  "postprocessing_note": "Only predicted box coordinates are padded and clipped. Mask geometry, ground truth, and confidence scores are unchanged. Padded-box results are a separate postprocessing experiment.",
+  "mask_targets": 945,
+  "segmentation_coco": {
+    "AP50_95": 0.28416059390751347,
+    "AP50": 0.6439927292183858,
+    "AP75": 0.24491444127008904,
+    "AR100": 0.45968253968253975
+  },
+  "pixel_IoU": 0.6443187328268951,
+  "pixel_Dice": 0.7836908015019561,
+  "mean_image_IoU": 0.595245279599361,
+  "pixel_precision": 0.883824051081944,
+  "pixel_recall": 0.703937842133145,
+  "false_positive_pixels_per_million": 60.20787250564759,
+  "sequences": [
+    {
+      "sequence": "single_frame_test",
+      "images": 664,
+      "targets": 945,
+      "TP": 725,
+      "FP": 417,
+      "FN": 220,
+      "precision": 0.6348511383537653,
+      "recall": 0.7671957671957672,
+      "F1": 0.6947771921418304
+    }
+  ]
+}

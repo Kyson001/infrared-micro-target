@@ -1,0 +1,1280 @@
+[
+  {
+    "id": 1,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_338.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_338.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 2,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_379.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_379.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 3,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_422.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_422.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 4,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_73.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_73.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 5,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_321.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_321.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 6,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_162.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_162.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 7,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_372.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_372.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 8,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_185.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_185.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 9,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_420.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_420.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 10,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_143.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_143.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 11,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_137.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_137.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 12,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_224.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_224.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 13,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_274.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_274.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 14,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_156.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_156.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 15,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_121.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_121.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 16,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_240.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_240.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 17,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_82.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_82.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 18,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_230.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_230.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 19,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_51.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_51.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 20,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_203.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_203.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 21,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_210.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_210.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 22,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_219.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_219.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 23,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_178.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_178.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 24,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_416.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_416.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 25,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_366.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_366.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 26,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_306.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_306.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 27,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_94.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_94.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 28,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_5.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_5.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 29,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_413.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_413.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 30,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_279.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_279.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 31,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_110.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_110.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 32,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_298.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_298.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 33,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_257.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_257.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 34,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_199.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_199.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 35,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_368.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_368.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 36,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_34.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_34.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 37,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_248.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_248.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 38,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_303.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_303.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 39,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_99.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_99.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 40,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_225.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_225.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 41,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_317.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_317.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 42,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_308.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_308.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 43,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_66.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_66.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 44,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_266.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_266.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 45,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_123.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_123.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 46,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_288.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_288.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 47,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_348.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_348.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 48,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_59.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_59.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 49,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_299.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_299.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 50,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_28.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_28.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 51,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_227.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_227.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 52,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_54.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_54.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 53,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_287.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_287.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 54,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_252.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_252.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 55,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_21.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_21.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 56,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_130.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_130.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 57,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_228.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_228.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 58,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_177.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_177.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 59,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_24.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_24.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 60,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_395.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_395.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 61,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_332.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_332.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 62,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_207.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_207.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 63,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_30.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_30.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 64,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_173.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_173.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 65,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_49.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_49.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 66,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_48.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_48.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 67,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_75.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_75.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 68,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_427.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_427.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 69,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_411.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_411.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 70,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_205.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_205.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 71,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_57.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_57.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 72,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_273.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_273.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 73,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_272.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_272.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 74,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_125.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_125.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 75,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_262.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_262.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 76,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_14.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_14.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 77,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_56.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_56.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 78,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_234.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_234.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 79,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_412.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_412.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 80,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_275.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_275.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 81,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_350.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_350.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 82,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_418.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_418.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 83,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_113.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_113.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 84,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_148.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_148.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 85,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_357.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_357.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 86,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_239.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_239.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 87,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_385.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_385.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 88,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_154.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_154.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 89,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_83.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_83.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 90,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_222.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_222.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 91,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_153.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_153.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 92,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_309.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_309.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 93,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_374.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_374.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 94,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_312.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_312.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 95,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_117.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_117.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 96,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_197.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_197.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 97,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_292.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_292.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 98,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_145.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_145.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 99,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_376.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_376.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 100,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_122.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_122.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 101,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_101.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_101.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 102,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_394.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_394.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 103,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_136.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_136.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 104,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_289.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_289.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 105,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_131.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_131.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 106,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_25.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_25.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 107,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_74.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_74.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 108,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_347.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_347.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 109,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_15.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_15.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 110,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_1.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_1.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 111,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_361.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_361.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 112,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_373.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_373.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 113,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_151.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_151.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 114,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_97.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_97.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 115,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_3.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_3.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 116,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_381.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_381.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 117,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_400.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_400.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 118,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_277.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_277.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 119,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_326.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_326.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 120,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_38.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_38.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 121,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_241.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_241.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 122,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_334.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_334.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 123,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_397.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_397.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 124,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_164.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_164.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 125,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_300.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_300.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 126,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_297.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_297.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 127,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_414.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_414.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 128,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_249.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_249.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 129,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_91.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_91.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 130,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_107.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_107.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 131,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_68.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_68.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 132,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_259.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_259.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 133,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_342.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_342.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 134,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_189.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_189.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 135,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_76.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_76.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 136,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_235.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_235.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 137,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_335.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_335.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 138,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_22.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_22.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 139,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_319.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_319.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 140,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_314.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_314.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 141,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_79.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_79.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 142,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_346.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_346.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 143,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_251.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_251.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 144,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_387.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_387.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 145,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_410.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_410.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 146,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_345.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_345.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 147,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_236.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_236.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 148,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_41.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_41.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 149,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_35.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_35.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 150,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_9.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_9.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 151,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_396.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_396.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 152,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_375.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_375.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 153,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_176.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_176.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 154,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_188.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_188.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 155,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_44.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_44.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 156,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_356.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_356.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 157,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_80.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_80.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 158,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_60.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_60.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 159,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_386.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_386.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 160,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_126.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_126.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 161,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_206.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_206.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 162,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_307.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_307.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 163,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_208.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_208.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 164,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_276.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_276.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 165,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_286.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_286.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 166,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_193.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_193.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 167,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_270.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_270.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 168,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_377.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_377.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 169,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_37.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_37.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 170,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_390.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_390.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 171,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_106.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_106.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 172,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_255.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_255.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 173,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_328.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_328.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 174,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_268.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_268.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 175,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_301.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_301.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 176,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_181.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_181.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 177,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_371.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_371.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 178,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_204.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_204.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 179,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_323.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_323.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 180,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_87.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_87.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 181,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_53.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_53.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 182,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_293.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_293.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 183,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_20.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_20.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 184,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_85.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_85.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 185,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_327.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_327.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 186,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_216.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_216.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 187,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_365.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_365.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 188,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_408.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_408.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 189,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_62.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_62.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 190,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_271.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_271.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 191,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_265.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_265.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 192,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_325.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_325.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 193,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_340.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_340.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 194,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_155.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_155.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 195,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_10.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_10.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 196,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_13.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_13.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 197,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_124.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_124.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 198,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_140.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_140.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 199,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_139.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_139.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 200,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_46.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_46.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 201,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_19.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_19.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 202,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_135.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_135.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 203,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_221.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_221.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 204,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_212.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_212.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 205,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_359.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_359.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 206,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_237.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_237.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 207,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_331.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_331.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 208,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_69.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_69.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 209,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_186.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_186.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 210,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_294.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_294.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 211,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_196.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_196.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 212,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_84.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_84.png",
+    "sequence": "single_frame_test"
+  },
+  {
+    "id": 213,
+    "path": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\images\\Misc_380.png",
+    "mask": "C:\\Users\\Kyson\\Desktop\\分割检测\\NUAA-SIRST\\masks\\Misc_380.png",
+    "sequence": "single_frame_test"
+  }
+]

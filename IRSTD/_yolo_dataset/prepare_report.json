@@ -1,0 +1,38 @@
+{
+  "signature": {
+    "source": "C:\\Users\\Kyson\\Desktop\\WideIRSTD-Full Dataset",
+    "seed": 42,
+    "val_ratio": 0.15,
+    "conversion_version": 1,
+    "archives": {
+      "train": {
+        "bytes": 2068343760,
+        "mtime_ns": 1792499011675838900
+      },
+      "test": {
+        "bytes": 837326352,
+        "mtime_ns": 1792498969591556700
+      }
+    }
+  },
+  "splits": {
+    "train": {
+      "images": 7650,
+      "instances": 18510,
+      "backgrounds": 3120,
+      "tiny_approximations": 708
+    },
+    "val": {
+      "images": 1350,
+      "instances": 3184,
+      "backgrounds": 556,
+      "tiny_approximations": 136
+    },
+    "test": {
+      "images": 2000,
+      "instances": 5328,
+      "backgrounds": 351,
+      "tiny_approximations": 229
+    }
+  }
+}
